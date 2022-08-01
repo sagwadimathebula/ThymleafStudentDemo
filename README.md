@@ -1,4 +1,4 @@
-# ThymleafStudentDemo #Java #Springboot #cache #HazelCast #modelView #WebApp #HTML #controller #Modules
+# ThymleafStudentDemo #JAVA #Springboot #cache #HazelCast #modelView #WebApp #HTML #controller #Modules
 exploring thymleaf and spring boot
 
 Thymleaf project with implemented Cache using Hazelcast,
